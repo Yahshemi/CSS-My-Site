@@ -2,7 +2,7 @@
 
 This is a basic personal portfolio. HTML/ CSS.
 
-[Yahshemi](Images/web-photo.png)
+![Yahshemi](Images/web-photo.png)
 
 
 ## Special Thanks
