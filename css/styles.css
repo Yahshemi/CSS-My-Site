@@ -130,5 +130,8 @@ p{
   top: 50px;
 }
 @media screen and (max-width: 600px){
-
+}
+.zoom:hover{
+  transform: scale(1.1);
+  transition: all ease 500ms;
 }
